@@ -28,9 +28,6 @@ def insert_window():
         fid = ins_fid.get()
         fname = ins_fname.get()
         flo = ins_flo.get()
-        '''if ins_fad.get() == "":
-            fad = NULL
-        else :'''
         fad = ins_fad.get()
         fch = ins_fch.get()
         fs = ins_fs.get()
